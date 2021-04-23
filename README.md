@@ -1,2 +1,2 @@
 # rsschool-cv
-rs school android 2021
+https://can-die.github.io/rsschool-cv/cv
